@@ -1,2 +1,2 @@
 # hello-world
-Simple repository for learning
+Simple repository for learning about GIT
